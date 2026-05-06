@@ -88,4 +88,3 @@ curl -X POST http://localhost:8000/sort/bubble \
 - **Manual stepping** — go one step at a time
 - **Stats** — live comparison/swap counters
 - **Fallback mode** — frontend works offline with client-side bubble sort demo
->>>>>>> master
